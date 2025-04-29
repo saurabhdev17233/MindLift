@@ -65,7 +65,7 @@ Integration with smart wearables for real-time emotional tracking.
 Personalized AI-based therapy and recommendation engine.
 
 ✍️ Authors
-[Your Name]
+[Saurabh Dev]
 
 [Rishi]
 
